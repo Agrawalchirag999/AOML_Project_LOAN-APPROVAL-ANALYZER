@@ -46,7 +46,7 @@ Banks and financial institutions process thousands of loan applications daily. A
 | Random Forest | 91.0%    | 0.895    |
 | XGBoost       | 99.985%  | 1.0      |
 | CatBoost      | 99.8%    | 0.999    |
-| LightGBM      | 98.5%    | 0.96     |
+| LightGBM      | 86.8%    | 0.905     |
 | Ensemble      |  98.99%  | 0.98     |
 
 ## 📊 Streamlit Interface & Final Decision
