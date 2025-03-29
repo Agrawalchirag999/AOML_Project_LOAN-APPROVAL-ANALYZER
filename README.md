@@ -54,9 +54,9 @@ Financial institutions need a reliable system to assess loan applications effici
 - Users input their details and get approval probability for each model.
 - A graphical representation shows model performance.
 - The final loan decision is made based on the best-performing model.
-![image](https://github.com/user-attachments/assets/d3c98f4e-c591-4d7e-826e-05c0954c9b26)
+ ![image](https://github.com/user-attachments/assets/d3c98f4e-c591-4d7e-826e-05c0954c9b26)
 
-![image](https://github.com/user-attachments/assets/60f7fc74-2dbf-4335-81bf-e47c7caf5067)
+ ![image](https://github.com/user-attachments/assets/60f7fc74-2dbf-4335-81bf-e47c7caf5067)
 
 ## 🚀 How to Run the Project
 
