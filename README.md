@@ -2,7 +2,7 @@
 
 ## 📌 Problem Statement
 
-Financial institutions need a reliable system to assess loan applications efficiently. The challenge is to determine whether a loan should be approved based on applicant details. This project aims to develop a machine learning-based solution that predicts loan approval, helping lenders make informed decisions.
+Banks and financial institutions process thousands of loan applications daily. A wrong approval can lead to financial losses, while an unnecessary rejection can deny deserving applicants access to funds. Manual loan assessments are time-consuming, inconsistent, and prone to errors. This project leverages machine learning to automate and enhance loan approval decisions by analyzing applicant details such as income, credit history, and financial stability. By accurately predicting loan approvals, financial institutions can minimize risks, improve efficiency, and provide fair lending opportunities to applicants.
 
 ## 📊 Dataset Details
 
