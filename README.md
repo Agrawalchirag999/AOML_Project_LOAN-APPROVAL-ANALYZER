@@ -44,8 +44,8 @@ Banks and financial institutions process thousands of loan applications daily. A
 | KNN           | 96.6%    | 0.979    |
 | Decision Tree | 88.0%    | 0.912    |
 | Random Forest | 91.0%    | 0.895    |
-| XGBoost       | 99.985%  | 1.0      |
-| CatBoost      | 99.8%    | 0.999    |
+| XGBoost       | 92.985%  | 0.957   |
+| CatBoost      | 95.8%    | 0.934   |
 | LightGBM      | 86.8%    | 0.905     |
 | Ensemble      |  98.99%  | 0.98     |
 
